@@ -1,0 +1,77 @@
+/* Capa 1: valores crudos. No definir aquí roles de interfaz. */
+:root {
+  --color-neutral-0: #ffffff;
+  --color-neutral-50: #f9f9f9;
+  --color-neutral-100: #f4f4f4;
+  --color-neutral-150: #f3f3f1;
+  --color-neutral-200: #ececec;
+  --color-neutral-300: #96959e;
+  --color-neutral-700: #212625;
+  --color-neutral-900: #141414;
+
+  --color-blue-500: #046bd2;
+  --color-blue-700: #045cb4;
+  --color-blue-900: #02356b;
+  --color-orange-500: #ff8200;
+  --color-teal-500: #34c2c6;
+  --color-sky-300: #6ec1e4;
+
+  --alpha-black-10: rgb(0 0 0 / 10%);
+  --alpha-black-40: rgb(0 0 0 / 40%);
+  --alpha-white-4: rgb(255 255 255 / 4%);
+  --alpha-white-10: rgb(255 255 255 / 10%);
+  --alpha-violet-12: rgb(41 30 113 / 12%);
+
+  --size-0: 0;
+  --size-1: 4px;
+  --size-2: 8px;
+  --size-3: 12px;
+  --size-4: 16px;
+  --size-5: 20px;
+  --size-6: 24px;
+  --size-7: 32px;
+  --size-8: 40px;
+  --size-9: 48px;
+  --size-10: 64px;
+  --size-11: 80px;
+  --size-12: 160px;
+  --size-13: 520px;
+  --size-14: 800px;
+  --size-15: 46px;
+  --size-16: 62px;
+  --size-17: 22px;
+  --size-18: 14px;
+  --size-19: 6px;
+  --size-20: 3px;
+  --size-21: 2.5px;
+  --size-22: 1px;
+  --size-23: 10px;
+  --size-24: 15px;
+  --size-25: 0.95;
+  --size-26: 1.45;
+  --size-27: 0.5;
+  --size-28: 0.6;
+  --size-29: 0.3s;
+  --size-30: 0.45s;
+  --size-31: 4px;
+  --pct-half: 50%;
+  --pct-full: 100%;
+  --pct-zero: 0%;
+  --pct-hero-shift: 100%;
+  --pct-hero-shift-negative: -100%;
+  --font-size-xs: 10px;
+  --font-size-sm: 12px;
+  --font-size-md: 15px;
+  --font-size-lg: 16px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 12px;
+  --font-size-remember: 10px;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --letter-spacing-sm: 1px;
+  --letter-spacing-md: 0px;
+  --letter-spacing-lg: 1px;
+  --shadow-card: 0 12px 80px rgb(41 30 113 / 12%);
+  --blur-glass: 4px;
+  --line-height-copy: 1.45;
+}
